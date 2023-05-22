@@ -43,7 +43,8 @@ You may need to adjust the learning rate at `line #76` to reach the convergence.
 
 Write down the converged minimum value of the energy by updating the text below.
 
-***minimum energy of the system = ????***
+***minimum energy of the system = -104.67***
+***(The energy is still decreasing at a very small rate (less than 0.001 per step), but the animation is already stable)***
 
 
 ## After Doing the Assignment
