@@ -39,7 +39,9 @@ Write a few lines of code around `line #52` to compute hessian accurately. After
 
 ![problem2](problem2.png)
 
-Write down the converged minimum value of the energy by updating the text below.
+Write down the converged minimum value of the energy by updating the text below. 
+
+The converged minimum value of the energy at time 40.04 is -96.7257.
 
 ## After Doing the Assignment
 
